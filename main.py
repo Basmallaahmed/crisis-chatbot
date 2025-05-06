@@ -259,4 +259,3 @@ if __name__ == "__main__":
             print("👋 Goodbye!")
             break
         response, previous_context = get_solution(user_input, previous_context)
-
